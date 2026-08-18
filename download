@@ -1,0 +1,9 @@
+# Autodesk / CAD temporary and local files
+*.bak
+*.tmp
+*.autosave
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+Desktop.ini
